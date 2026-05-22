@@ -6,7 +6,7 @@ st.write(
 )
 action = st.menu_button("MENU", options=["Warehouse", "Sponsorship", "Our Products"])
 if action == "Warehouse":
-    st.write("Loading A list of our warehouse...")
+    st.write("Loading A list of our warehouse all over the galaxy...")
 elif action == "Sponsorship":
     st.write("Loading A list of our sponsor...")
 elif action == "Our Products":
